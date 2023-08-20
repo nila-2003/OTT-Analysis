@@ -26,7 +26,7 @@ Original Dataset Link (from Kaggle) for Movies.csv: https://www.kaggle.com/shubh
 Original Dataset Link (from Kaggle) for Ratings.csv: https://www.kaggle.com/shubhammehta21/movie-lens-small-latest-dataset?select=ratings.csv
 
 ### Recommendation System:
-We will be implementing Collaborative Filtering Recommender System. 
+I will be implementing Collaborative Filtering Recommender System. 
 
 Collaborative Filtering is the process of filtering for information or patterns using techniques involving collaboration among multiple agents, viewpoints, data sources, etc.
 
